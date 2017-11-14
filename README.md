@@ -29,3 +29,10 @@ Open the terminal or command line.
 `python new_entertainment.py`
 
 Default browser will open and display the webpage.  
+
+## Source and contribution page
+---
+I used the following to aid in the completion of my project
+* Udacity provided fresh_tomatoes.py to build the HTML
+* Alot of code used is from the Udacity tutorials
+* Git hub help and tutorials
