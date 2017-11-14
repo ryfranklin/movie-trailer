@@ -19,7 +19,7 @@ Project contains the following:
 
 `fresh_tomatoes.py` - Used to create the HTML page through Python. _Udacity provided this program_
 
-## How to operate the project
+## How to run the project
 ---
 You have the choice of downloading the .zip file or cloning the repository.  
 
