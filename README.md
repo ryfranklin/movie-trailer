@@ -1,2 +1,3 @@
-# movie-trailer
-Udacity Final Project 1
+# Udacity Movie-Trailer Project 
+By: Ryan Franklin
+---
